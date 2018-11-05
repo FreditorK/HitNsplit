@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 2a08eac69695ad441aff512d64c8c605
+  - enabled: 0
+    path: 
+    guid: c806aeb4f68ae134cb7ded54d21eb00e
+  - enabled: 1
+    path: Assets/Scenes/Endless1.unity
+    guid: 68d894de767ab4a49b13783c3c9fdbbc
